@@ -1,0 +1,4 @@
+[submodule "badbole/l10n-croatia"]
+	path = badbole/l10n-croatia
+	url = git@github.com:badbole/l10n-croatia.git
+	branch = 16.0-dev
